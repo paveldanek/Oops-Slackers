@@ -14,6 +14,9 @@ I tried to burn the **netboot.xyz.iso** image on my USB and run it. Here's what 
 
 ![Pic #2 - Failsafe Menu (after hitting "m")](/Pics/IMG_7870.JPG)
 
+![Pic #3 - Available commands](/Pics/IMG_7874.JPG)
+Apparently, there would be a way to play around with the available commands, as the section **Quick start** shows on [this page](https://ipxe.org/start).
+
 As far as future setup of TFTP server, I think I found a useful article [here](https://dynamicparallax.wordpress.com/2015/08/20/how-to-setup-raspberry-pi-as-a-tftp-server/). Check it out.
 
 See you soon!
