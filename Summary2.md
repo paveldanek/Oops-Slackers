@@ -7,7 +7,7 @@ we have 2 major challenges ahead of us:
 1. Get the TFTP server up and running
 2. Get iPXE boot and connect to our server
 
-I've been trying to work on the iPXE end and got a little further this week. I was able to pinpoint _WHICH_ parts of [NetBoot.xyz](https://github.com/antonym/netboot.xyz) relate to us and _HOW_ to alter them, but I've also run into some challenges I wasn't able to crack yet.
+I've been trying to work on the iPXE end and got a little further this week. I was able to pinpoint _WHICH_ parts of [NetBoot.xyz source code](https://github.com/antonym/netboot.xyz) relate to us and _HOW_ to alter them, but I've also run into some challenges I wasn't able to crack yet.
 This picture shows, what needs to be changed in the source code:
 ![Pic #1](/Pics2/IMG1.jpeg)
 
